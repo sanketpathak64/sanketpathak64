@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Sanket Pathak
-# markdown
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url={https://github.com/sanketpathak64})]
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsanketpathak64)](https://hits.seeyoufarm.com)
 
+<br><br>
 I am final year student at Walchand College of Engineering pursuing B.Tech . I am also a competitive programmer and DSA enthusiast also skilled in C, C++, Data Structures and Algorithms. Worked with Open Source technologies like docker, git, ethereum. Interested in learning new Technologies. 
 - 💬 Ask me about anything
 - 🌱 I’m currently exploring new technologies
