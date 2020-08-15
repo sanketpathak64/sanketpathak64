@@ -1,14 +1,13 @@
 ### Hi there 👋 I'm Sanket Pathak
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsanketpathak64)](https://hits.seeyoufarm.com)
-
-<br><br>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=sanketpathak64 alt=sanketpathak64/> </p>
+<br>
 I am final year student at Walchand College of Engineering pursuing B.Tech . I am also a competitive programmer and DSA enthusiast also skilled in C, C++, Data Structures and Algorithms. Worked with Open Source technologies like docker, git, ethereum. Interested in learning new Technologies. 
 - 💬 Ask me about anything
 - 🌱 I’m currently exploring new technologies
 - 📫 How to reach me: sanketpathak64@gmail.com
 - ⚡ Fun fact: I love to watch anime
 <br /><br /><br /><br />
+
 ### Connect with me:
 
 [<img align="left" width="44px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -20,6 +19,7 @@ I am final year student at Walchand College of Engineering pursuing B.Tech . I a
 <br />
 <br />
 <br /><br />
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="44px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
