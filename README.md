@@ -2,6 +2,7 @@
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=sanketpathak64 alt=sanketpathak64/> </p>
 <br>
 I am final year student at Walchand College of Engineering pursuing B.Tech . I am also a competitive programmer and DSA enthusiast also skilled in C, C++, Data Structures and Algorithms. Worked with Open Source technologies like docker, git, ethereum. Interested in learning new Technologies. 
+
 - 💬 Ask me about anything
 - 🌱 I’m currently exploring new technologies
 - 📫 How to reach me: sanketpathak64@gmail.com
