@@ -6,7 +6,6 @@ I am final year student at Walchand College of Engineering pursuing B.Tech . I a
 - 💬 Ask me about anything
 - 🌱 I’m currently exploring new technologies
 - 📫 How to reach me: sanketpathak64@gmail.com
-- ⚡ Fun fact: I love to watch anime
 <br /><br /><br /><br />
 
 ### Connect with me:
