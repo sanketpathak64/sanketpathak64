@@ -39,7 +39,6 @@ I am final year student at Walchand College of Engineering pursuing B.Tech . I a
 <br />
 <br />
 <br /><br />
-<img align="left" alt="sanketpathak's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sanketpathak64&show_icons=true&hide_border=true&theme=dark" />
 
 [website]: https://sanketpathak64.github.io/Portfolio/
 [instagram]: https://www.instagram.com/sanketpathak64/
